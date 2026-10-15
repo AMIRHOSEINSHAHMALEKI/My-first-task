@@ -1,0 +1,62 @@
+@font-face {
+    font-family: 'sha';
+    src: url('fonts/vazir.eot') ;
+    src: url('fonts/vazir.woff') format('woff');
+    src: url('fonts/vair.ttf')format('truetype');
+    src: url('fonts/vazir.woff2')format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body{
+    background-color: rgb(247, 245, 242);
+    font-family: "sha";
+}
+
+.boxform{
+    position: absolute;
+    top: 20%;
+    left: 34%;
+    width: 550px;
+    height: 550px;
+    background-color: rgb(21, 20, 21);
+    border-radius: 10px;
+}
+.inp1{
+    position: absolute;
+    top: 15%;
+    left: 16%;
+    background-color: aliceblue;
+    font-family: "sha";
+    border: none;
+    width: 360px;
+    height: 45px;
+    text-align: center;
+    border-radius: 5px;
+}
+
+.inp2{
+    position: absolute;
+    top: 30%;
+    left: 16%;
+    background-color: aliceblue;
+    font-family: "sha";
+    border: none;
+    width: 360px;
+    height: 45px;
+    text-align: center;
+    border-radius: 5px;
+}
+
+.inp3{
+    position: absolute;
+    top: 45%;
+    left: 16%;
+    background-color: aliceblue;
+    font-family: "sha";
+    border: none;
+    width: 360px;
+    height: 45px;
+    text-align: center;
+    border-radius: 5px;
+}
